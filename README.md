@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# "Cardio" One Page Website Template
 
-You can use the [editor on GitHub](https://github.com/gofbjbtj/test2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+"Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download on Codrops](http://tympanus.net/codrops/?p=24301)
 
-### Markdown
+[Demo](http://tympanus.net/Freebies/Cardio/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License
 
-```markdown
-Syntax highlighted code block
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
 
-# Header 1
-## Header 2
-### Header 3
+## Credits 
 
-- Bulleted
-- List
+### Bootstrap
 
-1. Numbered
-2. List
+[Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
 
-**Bold** and _Italic_ and `Code` text
+### Animate.css
 
-[Link](url) and ![Image](src)
-```
+[Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Owl Carousel
 
-### Jekyll Themes
+[Owl Carousel](http://owlgraphic.com/owlcarousel/) by Bartosz Wojciechowski. Licensed under [MIT](https://github.com/OwlFonk/OwlCarousel/blob/master/LICENSE)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gofbjbtj/test2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### WOW.js
 
-### Support or Contact
+[WOW.js](http://mynameismatthieu.com/WOW/) by Matt Aussaguel. Licensed under [MIT](https://github.com/matthieua/WOW/blob/master/LICENSE-MIT)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### jQuery One Page Nav
+
+[jQuery One Page Nav](http://davist11.github.io/jQuery-One-Page-Nav/) by Trevor Davis.
+
+### Font Awesome Icons 
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+
+### Elegant Icons 
+
+[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+
+### Images
+
+[Image Pricing 1](https://www.flickr.com/photos/130855607@N05/16086503254/sizes/o/)
+
+Other images from [Pixabay](https://pixabay.com/)
+
+## Misc
+
+Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+
+[© Codrops 2015](http://www.codrops.com)
+
+
